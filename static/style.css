@@ -1,0 +1,24 @@
+#page-header{
+    margin: auto;
+    width: 100%;
+    padding: 20px;
+    background-color: lightgray;
+    text-align: center;
+    font-weight: bold;
+}
+
+#body-format{
+    margin: auto;
+    width: 100%;
+    padding: 10px;
+    background-color: white;
+    text-align: left;
+}
+
+#body-center{
+    margin: auto;
+    width: 100%;
+    padding: 10px;
+    background-color: white;
+    text-align: center;
+}
